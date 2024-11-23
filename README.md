@@ -32,6 +32,7 @@ Jason Albanese, Brian Xiao, Elaine Shagdarjav
 * annotations_histogram.png
 * categories_piechart.png
 * image_sizes_histogram.png
+* resent_confusion_matrix.png
 # Section 3: Instructions for Reproducing Results
 1. Clone this repository
 2. Download the following libraries/packages: (This can be done through the terminal with the following syntax: pip install <library>)

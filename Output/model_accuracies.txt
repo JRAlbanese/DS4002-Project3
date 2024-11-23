@@ -1,0 +1,11 @@
+MobileNetV2:
+Bounding Box Accuracy: 0.46417444944381714
+Classification Accuracy: 0.3208722770214081
+
+InceptionV3:
+Bounding Box Accuracy: 0.43302181363105774
+Classification Accuracy: 0.2928348779678345
+
+ResNet:
+Bounding Box Accuracy: 0.4735202491283417
+Classification Accuracy: 0.3208722770214081
